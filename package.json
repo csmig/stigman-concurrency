@@ -1,0 +1,15 @@
+{
+  "name": "stigman-concurrency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nuwcdivnpt/stig-manager-dev-modules": "github:NUWCDIVNPT/stig-manager-dev-modules#v1.0.1"
+  }
+}
